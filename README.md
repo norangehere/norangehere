@@ -5,7 +5,7 @@
 ## About me 👋
 
 - 🔭 I’m currently studying in @ZJU-Turing, Zhejiang University, majoring in AI.
-- 🌱 I’m currently learning Machine Learning and Computer Vision.
+- 🌱 I’m currently learning Machine Learning ,Computer Vision and Emobied AI.
 - 🔮 Here is my notebook ![Range](https://norangehere.github.io/zju-learning/)
 
 <p align="center">
