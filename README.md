@@ -1,12 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO%20👋!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20range!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO%20👋!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I'm%20PiXe1!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 ## About me 👋
 
 - 🔭 I’m currently studying in @ZJU-Turing, Zhejiang University, majoring in AI.
-- 🌱 I’m currently learning Machine Learning ,Computer Vision and Emobied AI.
-- 🔮 Here is my notebook ![Range](https://norangehere.github.io/zju-learning/)
+- 🌱 I’m currently interested in Embodied AI, Agent and LLM.
+- 🔭 This is my ![Google Scholar profile](https://scholar.google.com/citations?hl=en&user=re-7PX0AAAAJ)
+- 🔮 Here is my notebook ![Range](https://norangehere.github.io/zju-learning/) 
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=norangehere&show_icons=true&theme=dark&count_private=true" />
