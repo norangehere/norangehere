@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently studying in @ZJU-Turing, Zhejiang University, majoring in AI.
 - 🌱 I’m currently interested in AI4S, Embodied AI, Agent and LLM.
-- 🔭 This is my ![Google Scholar profile](https://scholar.google.com/citations?hl=en&user=re-7PX0AAAAJ)
-- 🔮 Here is my notebook ![Range](https://norangehere.github.io/zju-learning/) 
+- 🔭 This is my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=re-7PX0AAAAJ)
+- 🔮 Here is my notebook [Range](https://norangehere.github.io/zju-learning/) 
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=norangehere&show_icons=true&theme=dark&count_private=true" />
